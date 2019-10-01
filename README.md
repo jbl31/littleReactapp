@@ -1,2 +1,0 @@
-# littleReactapp
-Created with CodeSandbox
